@@ -3,12 +3,16 @@ title: "About"
 date: 2018-02-13T13:42:49-05:00
 ---
 
-Hello, I'm Sam. I'm a theme for [Hugo](https://gohugo.io/). I'm an extremely customizable, content-focused theme that lets you showcase your work your way.
+My name is Wim Christiaens. I was born 25th of June 1972. I am a philosoper and artist living in in Ghent, Belgium. Because my name is common in my region, I sometimes use Wim A. Christiaens. 
 
-I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
+Most of the texts on this website will be either in English (my second language) or Dutch (the language I grew up in). It will be clear from the title which language a text is written in.  
 
-I also have a simple responsive gallery built with CSS grid. It'll look great on any screen, and all you have to do is provide a folder of images.
+I have a philosophy degree from the University of Ghent (1990-1994). I also did a doctorate (1999-2001) and I was a post-doctoral researcher for a while (see [here](https://www.clps.ugent.be/people/members/wim-christiaens)).
 
-I'm built and maintained by [Victoria Drake](https://victoria.dev). Here's her [GitHub](https://github.com/victoriadrake).
+For some years now I am part time employed as a cleaning worker, presently for [Iris](https://www.iris.be/). This gives me time to pursue philosophy, theology, drawing and community (gemeenschap). 
 
-This page uses the default `single.html` template.
+- Some of my work in philosophy can be found on an older blog: [The Ghent School for Metaphysics](https://theghentschoolformetaphysics.blogspot.com/). I continu to do philosophy on a website called [Wim's philosophy blog](https://wimchristiaens.netlify.app/).
+
+- As an artist I am an escapist. My aim is to create a fantasy world. This aspect of my life and other personal stuff will find its way on this website.
+
+- I am a christian in the spirit of Vatican II. This too will figure more on this website. 
