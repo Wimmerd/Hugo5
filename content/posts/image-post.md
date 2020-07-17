@@ -1,19 +1,22 @@
 ---
-title: "Image post"
-date: 2018-02-19T12:41:46-05:00
-showDate: true
+title: "Harlequin Empereur de la lune"
+date: 20-02-19T12:41:46-05:00
+showDate: false
 tags: ["blog","story"]
 images:
-    - /posts/ideas.png
+    - /posts/IMG_7597.jpg
 ---
 
-Hello! I'm a blog post with an image. Thanks to Open Graph and Twitter metadata, external links to this page will feature the image below.
 
-![Ideas](/posts/ideas.png)
 
-To make this happen, set the `images` parameter in your post's [front-matter](https://gohugo.io/content-management/front-matter/), like this:
+![Ideas](/posts/IMG_7597.jpg)
+
+At this point we quote the German philosopher Leibniz:
 
 ```yaml
-images:
-    - /posts/ideas.png
+'… mon grand principe des choses naturelles est celui de 
+Harlequin Empereur de la Lune 
+(à qui je n'ai pourtant pas fait l'honneur de le citer), 
+que c'est toujours et partout en toutes choses tout comme ici' 
+(Lettre à la Reine Sophie-Charlotte, 8 mai 1704).  
 ```
