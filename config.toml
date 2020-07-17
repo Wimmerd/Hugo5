@@ -1,4 +1,4 @@
-baseurl                  = "https://example.com/"           # Your domain name. Must end with "/"
+baseurl                  = "https://wimchristiaenszelf.netlify.app/"           # Your domain name. Must end with "/"
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -18,7 +18,7 @@ pygmentsCodefences       = true
 # Metadata for Open Graph and Twitter
     description          = "A new Hugo site."               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Call me Sam"
+    title                = "Wim A. Christiaens"
 
 [[params.mainMenu]]
     link = "/posts"
