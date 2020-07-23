@@ -2,8 +2,8 @@
 title: "Bedenkingen Bij Job 1"
 date: 2020-07-23T13:56:57+02:00
 showDate: true
-draft: true
-tags: ["blog","story"]
+draft: false
+tags: ["Job","theologie","zingeving"]
 ---
 
 Het boek Job beschrijft een transformatie van het antieke bewustzijn en gebruikt daartoe onder meer ironie.    

@@ -2,8 +2,8 @@
 title: "Bedenkingen Bij Job 2"
 date: 2020-07-23T15:04:51+02:00
 showDate: true
-draft: true
-tags: ["blog","story"]
+draft: false
+tags: ["Job","theologie","zingeving"]
 ---
 
 Bij onvrijwillige doodslag is wraak door de benadeelde in veel gevallen een haast onvermijdelijk gevolg. De Joodse wet probeerde tegelijk begrip op te brengen voor zowel de mate waarin de dader onschuldig is, als de behoefte bij de verwanten van het slachtoffer om de dader te laten boeten voor wat hij gedaan heeft. Er werden blijkbaar om die reden zones ingericht of erkend die een ‘overgangssituatie’ toelaten. De Bijbel spreekt over ‘vrijsteden’: 
