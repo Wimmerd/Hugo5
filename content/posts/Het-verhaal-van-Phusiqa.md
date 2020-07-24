@@ -6,4 +6,3 @@ draft: true
 tags: ["blog","story"]
 ---
 
-Een sprookje.
