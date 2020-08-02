@@ -1,5 +1,5 @@
 ---
-title: "De Jaren Zeventig"
+title: "De Late Jaren Zeventig"
 date: 2020-07-31T15:05:41+02:00
 showDate: true
 draft: false
