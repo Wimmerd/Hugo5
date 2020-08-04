@@ -3,7 +3,7 @@ title: "Ik en Mijn Beperkingen"
 date: 2020-07-18T15:51:46+02:00
 showDate: true
 draft: false
-tags: ["blog","story"]
+tags: ["mijn verhaal"]
 ---
 
 Al sinds mijn jeugd worstel ik met aandachtsproblemen. Ik kreeg mijn hoofd niet helder en ik liet alles uit mijn handen vallen. Ik geraak nooit echt wakker.  (Ik ken iemand die dyslexie heeft. Wat ik heb is daaraan verwant.) Daardoor neig ik ernaar te dagdromen, waardoor ik vanaf twaalf jaar problemen kreeg met studeren. Op de middelbare school moest ik om die reden tot twee keer toe van richting veranderen. De tweede keer had ik zware buizen en het zag er even niet goed uit (een B-attest). Na het middelbaar deden de meeste mensen die ik kende geneeskunde, ingenieurswetenschappen, rechten en dergelijke meer. Mijn vader schreef mij in voor filosofie, in zijn ogen een vuilbakrichting. Maar ik was gemotiveerd, werkte redelijk hard, waardoor men mij capaciteiten toeschreef die ik niet heb. Een tijd lang kon ik bij sommigen het idee levend houden, dat ik misschien geen duidelijk of goed uitgewerkte filosofie kon produceren, maar dat er toch iets diepzinnig verborgen zat in wat ik vertelde. Ik waagde mij aan een doctoraat, maar ik slaagde er niet in om mijn artikels gepubliceerd te krijgen, en ik woog op mijn collega's. Gaandeweg werd duidelijk dat ik niet in de wieg gelegd was om op een dergelijk niveau te presteren. Maar het was elders niet zoveel beter. We zijn opgenomen in een dicht netwerk van verwachtingen. Ik probeer mij zoveel mogelijk afzijdig te houden. Ik vertrouw mezelf niet -- niet met taken in een werksituatie, niet met een liefdesrelatie, niet met een kind. 
