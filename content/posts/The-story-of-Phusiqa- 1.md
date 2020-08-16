@@ -2,7 +2,7 @@
 title: "The Story of Phusiqa 1"
 date: 2020-08-16T11:26:56+02:00
 showDate: true
-draft: true
+draft: false
 tags: ["Phusiqa","fairy tale"]
 ---
 
