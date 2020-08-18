@@ -2,8 +2,8 @@
 title: "Wat Is Geloven ?"
 date: 2020-08-18T12:45:28+02:00
 showDate: true
-draft: true
-tags: ["blog","story"]
+draft: false
+tags: ["Job","theologie","zingeving"]
 ---
 <center>*De volgende tekst was een opdracht voor de cursus 'Christelijke spiritualiteit' van Dirk Boone, gegeven aan het [HDGI](https://www.kerknet.be/organisatie/hoger-diocesaan-godsdienstinstituut) in Gent. We moesten de cursus op één bladzijde samenvatten. Ik heb de verwijzingen naar de pagina's van de cursus laten staan.*</center>
 

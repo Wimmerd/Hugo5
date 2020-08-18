@@ -2,12 +2,10 @@
 title: "Bedenkingen Bij Job 3"
 date: 2020-07-24T11:17:28+02:00
 showDate: true
-draft: true
-tags: ["blog","story"]
+draft: false
+tags: ["Job","theologie","zingeving"]
 ---
-De ‘modernistische’ lezing van het boek Job blijft mij bezig houden.  
-
-In de Willibrord van 1975 lezen we: ‘Welnu, wij moeten keuren wat recht is, samen uitmaken wat goed is’ (Job, 34,4). 
+In de Willibrord van 1975 lezen we: ‘Welnu, wij moeten keuren wat recht is, samen uitmaken wat goed is’ (Job, 34,4). Ik denk niet dat we dit letterlijk moeten nemen. Maar hoe dan wel? 
 
 Job en zijn vrienden zitten aan de rand van de stad. Ze oefenen, gedurende de tijd van het verhaal, hun beroep niet uit; ze dragen, gedurende die tijd, hun verantwoordelijkheid niet als hoofd van hun respectievelijke gezinnen. Ze bevinden zich in een uitzonderingssituatie, samen met hun vriend ‘op de ashoop’ – en ze praten. Elihu spoort Job aan:
 
@@ -22,6 +20,8 @@ Wat is er veranderd tussen 1-3 en 32-33? De beginsituatie was de volgende. Het s
 
 Ik vermeld terzijde dat het een misverstand is om te denken dat de logos die we geërfd hebben van de Grieken, in de eerste plaats, een grondslag was van de zo ontluisterende wetenschap. De logos was, in de eerste plaats, gemeenschapsdragende beraadslaging. 	
 
-‘Maar voor de gelovige Jood is het klaar en duidelijk wat er moet gebeuren, het staat genoteerd in de andere boeken van de Bijbel,’ zo hoor ik iemand tegenwerpen. Volledig mee eens, maar: het boek Job gaat niet over een Jood, het gaat over ‘een man in een land.’ Het boek Job is een sprookje, een gedachteoefening door Joden over zichzelf. 
+‘Maar voor de gelovige Jood is het klaar en duidelijk wat er moet gebeuren, het staat genoteerd in de andere boeken van de Bijbel,’ zo hoor ik iemand tegenwerpen. Volledig mee eens, maar: het boek Job gaat niet over een echte Jood, het gaat over ‘een man in een land.’ Het boek Job is een sprookje, een gedachteoefening door Joden over zichzelf. 
 
-Waarom vind ik dit zo belangrijk voor onze katholieke praxis in het licht van Vaticanum II en bijvoorbeeld paus Franciscus’ *Amoris Laetitia*? Zoals de vorige paus (Benedictus) onlangs nog schreef: de klassieke moraaltheologie is in elkaar gestort, omdat men zich nu niet langer baseert op het onveranderlijke natuurrecht (waar goed en kwaad en onze kennis van goed en kwaad mooi samenvallen, en als zodanig kunnen verkondigd worden), maar rechtstreeks op de Bijbel. En die Bijbel zien we, sinds paus Pius XII, als door God geïnspireerd *mensenwerk*. We zij niet langer bang voor de soms pijnlijke problemen, waar historisch gesitueerd zijn ons mee confronteert (niet in het minst omdat God het ons heeft voorgedaan!). Binnen bepaalde grenzen (we kunnen daar niet voor altijd op de ashoop blijven zitten), vinden we de discussie belangrijker dan de eenduidige conclusie, want ze maakt deel uit van de gemeenschapsvorming.
+Waarom vind ik dit zo belangrijk voor onze katholieke praxis in het licht van Vaticanum II en bijvoorbeeld paus Franciscus’ *Amoris Laetitia*? Zoals de vorige paus (Benedictus) onlangs nog schreef: de klassieke moraaltheologie is in elkaar gestort, omdat men zich nu niet langer baseert op het onveranderlijke natuurrecht (waar goed en kwaad en onze kennis van goed en kwaad mooi samenvallen, en als zodanig kunnen verkondigd worden), maar rechtstreeks op de Bijbel. En die Bijbel zien we, sinds paus Pius XII, als door God geïnspireerd *mensenwerk*. We zij niet langer bang voor de soms pijnlijke problemen, waar historisch gesitueerd zijn, ons mee confronteert (niet in het minst omdat God het ons heeft voorgedaan!). 
+
+Binnen bepaalde grenzen (we moeten daar niet altijd voor op een ashoop gaan zitten), vinden we de discussie belangrijker dan de eenduidige conclusie, want ze maakt deel uit van de gemeenschapsvorming.
