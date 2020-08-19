@@ -3,7 +3,7 @@ title: "Kind en Gemeenschap"
 date: 2020-08-13T14:13:30+02:00
 showDate: true
 draft: false
-tags: ["mijn verhaal","vandaag"]
+tags: ["vandaag"]
 ---
 Stel dat ik een vrouw ben, bijna vijftig, en ik besluit nog een kind te hebben. Dat zou men best wel vreemd vinden. Maar voor een man is het ok? Stop met denken op basis van de geslachstdelen. Maak daar eens even abstractie van. Je bent een mens van vijftig of bijna vijftig en je hebt je eerste kind. Dat is wat *ik* moet overwegen. Je moet niet eerst met het geslacht beginnen en dan met twee maten en gewichten gaan werken. Het werk dat je er in zal moeten steken is hetzelfde. Het werk (brood op tafel, luiers verversen, een huis schoon houden, aandachtig zijn voor de noden, geduldig zijn met het wenen ...) blijft invariant onder transformatie van geslachtsdelen (zegt de wiskundige in mij). 
 
