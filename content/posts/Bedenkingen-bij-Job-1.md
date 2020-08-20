@@ -14,7 +14,7 @@ Bij dit wereldbeeld hoort een maatschappelijke orde. Zoals God heerst over de sc
 
 In hoofdstukken 1 en 2 van Job wordt dit wereldbeeld op een indirecte manier ondermijnd. God is toch niet zo één. Hij heeft ‘zonen’. Eén daarvan doet moeilijk. Satan wijst erop dat het geheel van God en schepping gebaseerd is op transacties: ‘Hij vreest God niet voor niets! (1,9). In de Willibrord staat er: ‘Hij zegent God niet voor niets.’ 
 
-De theologen wijzen ons erop dat de tekst in hoofdstukken 1 en 2 de lezer op het verkeerde been gezet wordt. Het Hebreeuwse woord ‘zegenen’ betekent soms echt zegenen, op andere plaatsen het tegenovergestelde. Deze ironie dient om de worsteling met de betekenis van woorden en concepten van het toenmalige religieuze wereldbeeld weer te geven.   
+De theologen wijzen ons erop dat de tekst in hoofdstukken 1 en 2 de lezer op het verkeerde been zet. Het Hebreeuwse woord ‘zegenen’ betekent soms echt zegenen, op andere plaatsen het tegenovergestelde. Deze ironie dient om de worsteling met de betekenis van woorden en concepten van het toenmalige religieuze wereldbeeld weer te geven.   
 
 Het oude monotheïstische wereldbeeld functioneerde moreel volgens een principe: de *Tun-Ergehen-Zusammenhang*. Wie goed doet wordt beloond; wanneer je iets slecht overkomt heb je, in de ogen van God, iets slecht gedaan. Maar Satan insinueert dat het doet denken aan wat er gebeurt op een markt. Je krijgt een kilo appelen voor een bedrag aan geld. Of je ruilt die hoeveelheid appelen voor een hoeveelheid peren. Je ruilt waarde voor waarde, zegt de econoom.  
 
