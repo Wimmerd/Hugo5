@@ -24,4 +24,4 @@ Ik weet niet wat er van haar geworden is.
 
 De leraren van het lagere middelbaar waren over het algemeen goed, sommigen ook nog innemend. Het waren mensen die hogeschool gedaan hadden. In het hogere middelbaar kregen we universitairen. Die waren, op enkele uitzonderingen na, chagrijnig.
 
-[Vervolg]().
+[Vervolg](https://wimchristiaenszelf.netlify.app/posts/heupen/).
