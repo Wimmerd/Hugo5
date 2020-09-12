@@ -2,7 +2,7 @@
 title: "Heupen"
 date: 2020-09-12T16:15:02+02:00
 showDate: true
-draft: true
+draft: false
 tags: ["mijn verhaal"]
 ---
 
