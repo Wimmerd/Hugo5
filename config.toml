@@ -22,23 +22,23 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/posts"
-    text = "posts"
+    text = "Posts"
 
 [[params.mainMenu]]
     link = "/gallery"
-    text = "gallery"
+    text = "Gallery"
 
 [[params.mainMenu]]
     link = "/portfolio"
-    text = "portfolio"
+    text = "Portfolio"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who is Wim?"
+    text = "Who is Wim?"
 
 [[params.mainMenu]]    
     link = "/licence"
     text = "creative commons licence"
-    
+
 [imaging]
     quality = 75
