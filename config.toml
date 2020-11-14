@@ -36,5 +36,9 @@ pygmentsCodefences       = true
     link = "/about"
     text = "who is Wim?"
 
+[[params.mainMenu]]    
+    link = "/licence"
+    text = "creative commons licence"
+    
 [imaging]
     quality = 75

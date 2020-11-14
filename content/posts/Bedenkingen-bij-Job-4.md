@@ -20,7 +20,7 @@ Na eeuwen van tegenstribbelen, heeft de Kerk, in de loop van de twintigste eeuw,
 
 De analogie met belangrijke – op het moment van hun verschijnen: schokkende – moderne literaire werken, kan ik gebruiken om een onderscheid te maken tussen het aardse en het bovenaardse: wat Job specifiek maakt is dat het zich ‘in de laatste analyse’ moet kunnen lenen tot een lectio divina – voorbij alle analyse.
 
-Misschien is die gewaagde houding van de Kerk – de moderniteit ‘omarmen’ – al impliciet veel langer aanwezig. Men heeft er bij de redactie van de Bijbel (indien ik gelijk heb) ten slotte voor gekozen een modernistisch werk te weerhouden. Fenomeen die leiden tot een modern literair werk zoals The Waste Land, doen zich al langer voor dan vandaag: hoe zwaarder het thema, hoe meer humor je nodig hebt, en naargelang het denken intenser wordt, komt de taal onder druk te staan, begin de logica te wankelen. 
+Misschien is die gewaagde houding van de Kerk – de moderniteit ‘omarmen’ – al impliciet veel langer aanwezig. Men heeft er bij de redactie van de Bijbel (indien ik gelijk heb) ten slotte voor gekozen een modernistisch werk te weerhouden. Fenomeen die leiden tot een modern literair werk zoals *The Waste Land*, doen zich al langer voor dan vandaag: hoe zwaarder het thema, hoe meer humor je nodig hebt, en naargelang het denken intenser wordt, komt de taal onder druk te staan, begin de logica te wankelen. 
 
 Een deel van de de filosofie van de twintigste heeft op deze inzichten behoorlijk wat academische carrières gebouwd. Maar we kennen het vooral van nog veel vroeger: de mystieke traditie. Ik volg Matthias wanneer hij, bij zijn inleiding op de discussie in het plenum, in de mystiek terecht kwam. Maar ook dit zou hier te ver zou leiden. 
 
