@@ -1,8 +1,8 @@
 ---
 title: "Resignation"
 date: 2021-03-12T19:28:07+01:00
-showDate: true
-draft: false
+showDate: false
+draft: true
 tags: ["poetry"]
 ---
 
