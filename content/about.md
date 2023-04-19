@@ -9,9 +9,9 @@ Most of the texts on this website will be either in English (my second language)
 
 I have a philosophy degree from the University of Ghent (1990-1994). I also did a doctorate (1999-2001) and I was a post-doctoral researcher for a while (see [here](https://www.clps.ugent.be/people/members/wim-christiaens)).
 
-For some years now I am part time employed as a cleaning worker, presently for [Iris](https://www.iris.be/). This gives me time to pursue philosophy, theology, drawing and community (gemeenschap). 
+For the last ten years or so I was employed as a cleaning worker for [Iris](https://www.iris.be/). Since November 2022 I work for [Stella Maris](https://www.stellamarisgent.be/welcome%20sailors.htm). This gives me time to pursue philosophy, theology, drawing and community (gemeenschap). 
 
-- Some of my work in philosophy can be found on an older blog: [The Ghent School for Metaphysics](https://theghentschoolformetaphysics.blogspot.com/). I continu to do philosophy on a website called [Wim's philosophy blog](https://wimchristiaens.netlify.app/).
+- I continu to do philosophy on a website called [Wim's philosophy blog](https://wimchristiaens.netlify.app/).
 
 - As an artist I am an escapist. My aim is to create a fantasy world. This aspect of my life and other personal stuff will find its way on this website.
 
