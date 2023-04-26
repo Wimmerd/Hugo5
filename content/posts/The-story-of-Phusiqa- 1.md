@@ -6,7 +6,7 @@ draft: false
 tags: ["Phusiqa","fairy tale"]
 ---
 
-<center> Part of my drawings are illustrations of a story, a fairy tale actually. One that I made up. Section 1 goes like this. </center>
+<center> Part of my drawings are illustrations of a story, a fairy tale I am working on. One that I made up. Section 1 goes like this. </center>
 
 A long time a ago, when reality was spirit instead of matter, our physical reality as we know it today, did not exist. It had to be created. 
 
